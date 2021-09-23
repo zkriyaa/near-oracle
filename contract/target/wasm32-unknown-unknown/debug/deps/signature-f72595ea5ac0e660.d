@@ -1,0 +1,11 @@
+/Users/riyasingh/myapps/near-app/contract/target/wasm32-unknown-unknown/debug/deps/signature-f72595ea5ac0e660.rmeta: /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/lib.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/error.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signature.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signer.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/verifier.rs
+
+/Users/riyasingh/myapps/near-app/contract/target/wasm32-unknown-unknown/debug/deps/libsignature-f72595ea5ac0e660.rlib: /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/lib.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/error.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signature.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signer.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/verifier.rs
+
+/Users/riyasingh/myapps/near-app/contract/target/wasm32-unknown-unknown/debug/deps/signature-f72595ea5ac0e660.d: /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/lib.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/error.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signature.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signer.rs /Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/verifier.rs
+
+/Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/lib.rs:
+/Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/error.rs:
+/Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signature.rs:
+/Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/signer.rs:
+/Users/riyasingh/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.3.1/src/verifier.rs:
